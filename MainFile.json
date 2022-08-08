@@ -1,8 +1,8 @@
 {
   "data" :  {
-      "AD_Priority_Google/URL" : "Google",
+      "AD_Priority_Google" : "Google",
     
-      "Vpn_Show/Gone" : "Show",  
+      "Vpn_Show/Gone" : "Gone",  
     
       "AppVersion_Update" : "1.0",  
     
